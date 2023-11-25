@@ -261,8 +261,10 @@ margin-top: 550px;
 }
 
 .content-poster{
-    margin-left:60px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .content-poster .poster{
