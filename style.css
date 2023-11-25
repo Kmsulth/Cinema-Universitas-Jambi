@@ -143,7 +143,7 @@ background-color: black;
 transform: scale(0);
         }
 
-/*
+
 @media screen and (max-width: 576px){
     nav ul {
         position: absolute;
@@ -172,7 +172,7 @@ transform: scale(0);
         transform: translateX(0);
     }
 }
-*/
+
 
 .about{
     display: flex;  
